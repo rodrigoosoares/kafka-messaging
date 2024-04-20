@@ -19,6 +19,7 @@
     <modules>
         <module>consumer</module>
         <module>producer</module>
+        <module>consumer-component-test</module>
     </modules>
 
     <properties>
